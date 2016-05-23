@@ -1,0 +1,28 @@
+name: Samantha Catron
+favicon: null
+layout_spectrum: 0.8348456206731498
+typography_spectrum: 0.3693218473345041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8614317518658936
+  lightness: 0.4983933251351118
+  saturation: 0.07470652391202748
+  rhythmicContrast: 0.829776291269809
+purpose: []
